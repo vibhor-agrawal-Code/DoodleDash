@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="PrimaryOrange">#F56035</color>
+    <color name="Blue">#154255</color>
+    <color name="LightOrange">#FFF2EF</color>
+    <color name="teal">#FF03DAC5</color>
+    <color name="Yellow">#FFFF00</color>
+    <color name="Green">#5AEC4F</color>
+    <color name="LightGreen">#F1FEF0</color>
+    <color name="LightBlue">#35A3BF</color>
+    <color name="Purple">#D97EE3</color>
+    <color name="LightPurple">#FBEFFC</color>
+
+</resources>
